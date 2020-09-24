@@ -1,4 +1,6 @@
 # vue-security-demo
+## SpringBoot 2.X + Vue + SpringSecurity 
+## 前后端分离，并且都做了拦截。基于session basic的权限校验与授权
 
 ## Project setup
 ```
@@ -14,11 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
